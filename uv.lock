@@ -640,6 +640,7 @@ dependencies = [
     { name = "openai" },
     { name = "python-dotenv" },
     { name = "streamlit" },
+    { name = "truststore" },
 ]
 
 [package.metadata]
@@ -650,6 +651,7 @@ requires-dist = [
     { name = "openai", specifier = ">=3.49.0" },
     { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "streamlit", specifier = ">=1.67.0" },
+    { name = "truststore", specifier = ">=0.10.5" },
 ]
 
 [[package]]
